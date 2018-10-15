@@ -1,0 +1,26 @@
+{
+   "_requiredBy": [
+    "/koa"
+  ],
+  "name": "koa-load-middlewares",
+  "version": "1.0.0",
+  "description": "一个基于koa2的中间件加载器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+  	"name":"WYseven",
+  	"git": "https://github.com/WYseven"
+  },
+  "homepage":"",
+  "keywords":[
+  	"koa",
+  	"middlewares"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jshttp/accepts.git"
+  },
+  "license": "ISC"
+}
