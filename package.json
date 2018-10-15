@@ -13,7 +13,7 @@
   	"name":"WYseven",
   	"git": "https://github.com/WYseven"
   },
-  "homepage":"",
+  "homepage":"https://github.com/WYseven/koa-load-middlewares/blob/master/README.md",
   "keywords":[
   	"koa",
   	"middlewares"
